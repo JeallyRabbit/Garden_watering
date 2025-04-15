@@ -1,0 +1,50 @@
+🔧 System Overview
+🎯 Your Goal:
+Read barrel level (20–450 cm sensor range)
+
+Logic: If water ≥ 25%, use barrel + solenoids
+
+Else, use network + solenoids
+
+Steer pump and valves via relay module (aka power repeater)
+
+🛒 Components Needed
+
+Component	Qty	Purpose
+Raspberry Pi 4	1	Central brain
+JSN-SR04T Sensor	1	Ultrasonic water level detection
+5V Relay Module (8-channel)	1	Control pump + 4 solenoids
+12V Water Pump	1	Push water (from barrel)
+12V Solenoid Valves	4	Control water to different zones
+12V DC Power Supply (5A)	1	Power for valves and pump
+Flyback diodes (1N4007)	5	Across pump & solenoid terminals
+Jumper wires, resistors	-	GPIO connections & voltage divider
+Optional: project box	1	For weather protection
+⚙️ GPIO Assignments (Example)
+
+Device	GPIO Pin (BCM)
+JSN Trigger	23
+JSN Echo	24
+Relay 1 (Pump)	17
+Relay 2 (Valve 1)	27
+Relay 3 (Valve 2)	22
+Relay 4 (Valve 3)	5
+Relay 5 (Valve 4)	6
+🧠 Wiring Summary
+🔌 Power:
+Raspberry Pi → powered via USB-C (5V)
+
+12V DC power supply → to pump + solenoids via relays
+
+Flyback diode on each inductive device (pump, solenoids)
+
+⚡ Relay (Repeater) Wiring:
+Each relay has:
+
+IN pin → GPIO from Pi
+
+VCC → 5V on Pi
+
+GND → Pi ground
+
+COM/NO → switches 12V power to devices (normally off until triggered
