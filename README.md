@@ -4,7 +4,8 @@ https://botland.com.pl/ultradzwiekowe-czujniki-odleglosci/7266-ultradzwiekowy-cz
 Przekaźniki:
 https://allegro.pl/oferta/modul-przekaznik-sterowany-3-3v-10a-ac-250v-17264064446?utm_feed=aa34192d-eee2-4419-9a9a-de66b9dfae24&utm_source=google&utm_medium=freelisting&srsltid=AfmBOoqUVAH4cZsixPI6X4pBXn9H0tpc-nrACtqjG4ppy0JXlmi9XLDCbdA&gQT=1
 
-Elektrozawory - zmierzyć średnicę węża na działce 
+Elektrozawory:
+https://allegro.pl/oferta/elektrozawor-24v-3-4-zawor-cewka-powietrza-wody-elektromagnetyczny-zamkniet-15610174020?utm_feed=aa34192d-eee2-4419-9a9a-de66b9dfae24&utm_source=google&utm_medium=freelisting&srsltid=AfmBOopsXBGxnNT8jGoCWC0xZU0ERxK5ULuHoTqnyO6ABo_M0VQrM-yWDdA&gQT=1
 
 pompa - ta suka ma 125 l/minute:
 https://www.dostudni.pl/pompa-zatapialna-ip-400-mini-ibo-230v,id7032.html?---GOGINI-PL-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------=1&gad_source=1&gad_campaignid=17490164837&gclid=CjwKCAjw6NrBBhB6EiwAvnT_rvj9M7fncIi_8TqRF9I5DxY4S5_aXLXBjkWUuLFWj2YP9wHhQheVwRoCWsQQAvD_BwE
